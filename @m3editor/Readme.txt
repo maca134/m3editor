@@ -1,8 +1,7 @@
 M3Editor
 ========
 By maca134 (maca134@googlemail.com)
-M3Editor by maca134 is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
-http://creativecommons.org/licenses/by-nc-nd/4.0/
+M3Editor by maca134 is licensed under a Apache 2.0 License
 
 ARMA2NET by Scott_NZ is licensed under a Apache 2.0 License.
 https://bitbucket.org/Scott_NZ/arma2net
