@@ -1,6 +1,6 @@
 .hg*
-Addons/a3_m3editor.pbo
 Addons/a3_m3editor.pbo.bak
 M3EDLL/M3DEditor/M3DEditor/obj/*
 DLL/M3DEditor/obj/*
 pbo.bat
+DLL/output/*
