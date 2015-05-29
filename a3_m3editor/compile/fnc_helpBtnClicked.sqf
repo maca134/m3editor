@@ -1,0 +1,11 @@
+private ['_ctrl', '_help'];
+disableSerialization;
+createDialog 'M3EHelpDialog';
+_ctrl = (findDisplay 1344) displayCtrl 1340;
+_help = "<t font='PuristaMedium' size='2'>Macca's 3D Editor Help</t><br/><br/>";
+_help = _help + "<t font='PuristaMedium' size='1.1'>Cam Movement</t><br/><t font='PuristaMedium' color='#AAAA00'>W,A,S,D,Q,Z (SHIFT/CTRL) - Right Click to pan</t><br/><br/>";
+_help = _help + "<t font='PuristaMedium' size='1.1'>Zoom</t><br/><t font='PuristaMedium' color='#AAAA00'>SCROLL</t><br/><br/>";
+_help = _help + "<t font='PuristaMedium' size='1.1'>Nudge Object</t><br/><t font='PuristaMedium' color='#AAAA00'>NumPad Arrows</t><br/><br/>";
+_help = _help + "<t font='PuristaMedium' size='1.1'>Copy/Paste Selected Object</t><br/><t font='PuristaMedium' color='#AAAA00'>CTRL-C/CTRL-V</t><br/><br/>";
+_help = _help + "<br/><t size='0.8'>M3Editor is by maca134 (maca134@googlemail.com).<br/>Please consider donating if you find this addon handy.<br/>Thankyou =)</t>";
+_ctrl ctrlSetStructuredText parseText _help;

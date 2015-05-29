@@ -1,0 +1,6 @@
+M3Editor - by maca134
+=====================
+
+Simple load M3Editor with any other mods with assets you wish to place. You may need to unblock the DLL in the @m3editor folder. These are used for opening/saving files.
+
+IF you have any problems please email me at maca134@gmail.com. Please provide as much information as possible (logs, screenshots, etc)

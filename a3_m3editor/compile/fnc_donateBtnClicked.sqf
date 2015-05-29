@@ -1,0 +1,1 @@
+("Arma2Net.Unmanaged" callExtension "M3DE [donateBtn]");

@@ -1,0 +1,10 @@
+{deleteVehicle _x;} forEach M3E_insertedObjects;
+M3E_insertedObjects 		= [];
+M3E_selectedObject 			= objNull;
+M3E_startDragOffset 		= [];
+M3E_startMousePosition 		= [];
+M3E_objectStartPosition 	= [];
+call M3E_fnc_loadObjectInfo;
+call M3E_fnc_loadSpawnedList;
+(findDisplay 1347) closeDisplay 1;
+(findDisplay 1346) closeDisplay 1;
